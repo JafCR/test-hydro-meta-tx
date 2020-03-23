@@ -1,0 +1,32 @@
+{
+  "name": "test-hydro-meta-tx",
+  "version": "1.0.0",
+  "description": "This modules uses hydro-meta-tx module to start relayer and run few meta transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertmagier/test-hydro-meta-tx.git"
+  },
+  "keywords": [
+    "meta",
+    "transactions",
+    "hydro"
+  ],
+  "author": "Robert Magier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertmagier/test-hydro-meta-tx/issues"
+  },
+  "homepage": "https://github.com/robertmagier/test-hydro-meta-tx#readme",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "dependencies": {
+    "ethers": "^4.0.46",
+    "express": "^4.17.1",
+    "hydro-meta-tx": "^0.1.12"
+  }
+}
