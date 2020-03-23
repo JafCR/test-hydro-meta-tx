@@ -27,6 +27,6 @@
   "dependencies": {
     "ethers": "^4.0.46",
     "express": "^4.17.1",
-    "hydro-meta-tx": "^0.1.12"
+    "hydro-meta-tx": "^0.1.13"
   }
 }

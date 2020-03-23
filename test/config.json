@@ -1,7 +1,7 @@
 {
   "privateKey": "0x52cc5ff4d4278a74fd5b1405ef9d52a5ef9a7e215973b13f466267870c67287b",
   "PROVIDER_ADDRESS": "http://localhost:8545",
-  "INFURA_NETWORK": "ropsten",
+  "INFURA_NETWORK": "rinkeby",
   "INFURA_TOKEN": "8b979d6e93664a98a3eaa18a8bb0201e",
   "contractsFile":"./contracts.json",
   "erc20File":"./erc20contract.json",
